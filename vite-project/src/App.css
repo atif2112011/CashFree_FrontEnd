@@ -1,0 +1,16 @@
+#root {
+  background-color: #144ddc;
+  margin:0;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+
+
+.card {
+  padding: 2em;
+}
+
+
